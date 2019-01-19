@@ -32,7 +32,7 @@ h1 {
 }
 
 .text-container {
-      line-height:normal;
+      line-height: 45px;
 }
 
 #title {
@@ -56,14 +56,51 @@ p {
     font-size: 20px;
     color: black;
     padding-top: 250px;
+    padding-bottom: 500px;
     margin-block-end: .75em;
 }
+
 #poetry .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   margin: auto;
-  padding-top: 200px;
+
+}
+#falling {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin: auto;
+
+}
+#abomb {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin: auto;
+
+}
+#fragments {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin: auto;
+
+}
+#forever  {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin: auto;
+
+}
+#losingyou {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin: auto;
+  
 }
 <style>
 #link {
