@@ -220,19 +220,19 @@ p {
 }
 
 .icon_link{
-  text-align: center;
+  text-align: center-left;
   padding-top: 5%;
 }
 
 .icon_link a{
   color: black;
-  background-color: #94d6f2;
+  background-color: none;
 }
 
 .icon_link a:hover {
     text-decoration:none;
     font-weight:none;
-    color: var(--pop-color);
+    color: black;
     background: none;
 
 }
