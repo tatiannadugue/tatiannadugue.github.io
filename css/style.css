@@ -430,7 +430,7 @@ font-family:   var(--secondary-font);
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
-  width: 33.33%;
+  width: 25%;
   padding: 5px;
 }
 
@@ -679,7 +679,7 @@ font-family:   var(--secondary-font);
 
 }
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 300px) {
   .column {
     width: 100%;
   }
