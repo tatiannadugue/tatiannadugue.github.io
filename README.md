@@ -1,2 +1,2 @@
-# CFResources-PIT-case-study
-Final project overview website for PIT Fall 2020 project
+# Tatianna's personal Website
+Code help and inspo from @fl2508
