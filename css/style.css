@@ -232,8 +232,8 @@ p {
 .icon_link a:hover {
     text-decoration:none;
     font-weight:none;
-    color: black;
-    background: none;
+    color: grey;
+    background: var(--pop-color);
 
 }
 
