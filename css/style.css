@@ -523,10 +523,10 @@ font-family:   var(--secondary-font);
   margin: auto;
 }
 
-/* Hide the images by default */
+/* Hide the images by default 
 .mySlides {
   display: none;
-}
+} */
 
 /* Next & previous buttons */
 .prev, .next {
@@ -591,7 +591,7 @@ font-family:   var(--secondary-font);
   background-color: #717171;
 }
 
-/* Fading animation */
+/* Fading animation 
 .fade {
   animation-name: fade;
   animation-duration: 1.5s;
@@ -600,7 +600,7 @@ font-family:   var(--secondary-font);
 @keyframes fade {
   from {opacity: .4}
   to {opacity: 1}
-}
+} */
 
 /*MOBILE CSS */
 @media only screen and (max-width: 600px) {
